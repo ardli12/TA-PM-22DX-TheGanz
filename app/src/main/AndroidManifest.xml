@@ -5,10 +5,10 @@
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
-        android:label="@string/app_name"
+        android:label="DeepBlue"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.Trojan">
+        android:theme="@style/Theme.DeepBlue">
         <activity
             android:name=".MainActivity"
             android:exported="true">
